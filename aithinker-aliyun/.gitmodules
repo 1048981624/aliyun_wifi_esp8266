@@ -1,0 +1,3 @@
+[submodule "esp-aliyun"]
+	path = esp-aliyun
+	url = https://gitee.com/xuhongv/esp-aliyun
